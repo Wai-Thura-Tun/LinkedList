@@ -1,25 +1,3 @@
 # ninja log v5
-0	407	6867454483924913	CMakeFiles/LinkedList.dir/linklist.cpp.obj	7031e4d3bd63e6e7
-408	591	6867454485761266	LinkedList.exe	e3944c4fefb62256
-11	363	6867454560184101	CMakeFiles/LinkedList.dir/linklist.cpp.obj	7031e4d3bd63e6e7
-363	498	6867454561522847	LinkedList.exe	e3944c4fefb62256
-11	365	6867455079037931	CMakeFiles/LinkedList.dir/linklist.cpp.obj	7031e4d3bd63e6e7
-366	503	6867455080401181	LinkedList.exe	e3944c4fefb62256
-15	395	6867455222844016	CMakeFiles/LinkedList.dir/linklist.cpp.obj	7031e4d3bd63e6e7
-395	538	6867455224243985	LinkedList.exe	e3944c4fefb62256
-12	362	6867455583170888	CMakeFiles/LinkedList.dir/linklist.cpp.obj	7031e4d3bd63e6e7
-363	498	6867455584522359	LinkedList.exe	e3944c4fefb62256
-9	362	6867455681518060	CMakeFiles/LinkedList.dir/linklist.cpp.obj	7031e4d3bd63e6e7
-363	500	6867455682881776	LinkedList.exe	e3944c4fefb62256
-9	360	6867456104440801	CMakeFiles/LinkedList.dir/linklist.cpp.obj	7031e4d3bd63e6e7
-360	499	6867456105818290	LinkedList.exe	e3944c4fefb62256
-11	364	6867456785220852	CMakeFiles/LinkedList.dir/linklist.cpp.obj	7031e4d3bd63e6e7
-364	501	6867456786583811	LinkedList.exe	e3944c4fefb62256
-10	364	6867457078905718	CMakeFiles/LinkedList.dir/linklist.cpp.obj	7031e4d3bd63e6e7
-365	499	6867457080249412	LinkedList.exe	e3944c4fefb62256
-10	363	6867457293376440	CMakeFiles/LinkedList.dir/linklist.cpp.obj	7031e4d3bd63e6e7
-363	497	6867457294704669	LinkedList.exe	e3944c4fefb62256
-15	386	6867460105099299	CMakeFiles/LinkedList.dir/linklist.cpp.obj	7031e4d3bd63e6e7
-386	526	6867460106489319	LinkedList.exe	e3944c4fefb62256
-11	403	6867464216408992	CMakeFiles/LinkedList.dir/linklist.cpp.obj	7031e4d3bd63e6e7
-403	572	6867464218075549	LinkedList.exe	e3944c4fefb62256
+12	479	6868358831920015	CMakeFiles/LinkedList.dir/linklist.cpp.obj	7031e4d3bd63e6e7
+479	657	6868358833677023	LinkedList.exe	e3944c4fefb62256
